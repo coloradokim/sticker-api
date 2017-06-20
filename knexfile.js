@@ -1,6 +1,6 @@
 module.exports = {
   development: {
     client: "pg",
-    connection: "postgres//kims-web-store"
+    connection: "postgres://localhost/kims-web-store"
   }
 };
