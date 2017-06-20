@@ -58,5 +58,5 @@ module.exports = [
     description: 'Ruby Logo',
     rating: 7,
     url: 'http://devstickers.com/assets/img/cat/ruby.png'
-  },s
+  }
 ]
